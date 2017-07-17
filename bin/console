@@ -1,0 +1,10 @@
+#!/usr/bin/env ruby
+
+require "bundler/setup"
+require "hedgehog"
+
+# Optional: fixtures and/or initialization code here to make experimenting
+# with this gem easier.
+
+require "pry"
+Pry.start
